@@ -7,7 +7,7 @@
 - [Docker](#docker)
 - [Resources](#resources)
 
-#Mac OS X & Linux
+# Mac OS X & Linux
 
 ---
 
